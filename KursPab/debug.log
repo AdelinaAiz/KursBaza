@@ -1,0 +1,2 @@
+[0219/023225.326:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name metrics_client_id, discarding value 4e8da434f23e4a0683102b6afd96dbef
+[0219/023234.231:ERROR:crash_report_database_win.cc(828)] DeleteFile C:\Users\Wait4n\AppData\Local\Yandex\YandexBrowser\User Data\Crashpad\reports\526e057d-d57b-4440-8793-a00f5d8fd784.dmp: Процесс не может получить доступ к файлу, так как этот файл занят другим процессом. (0x20)
